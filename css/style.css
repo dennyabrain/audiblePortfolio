@@ -49,13 +49,45 @@ hr{
 .linkBox img{
 	margin-right:auto;
 	margin-left:auto;
+	width: 100%;
 }
 
 #instagramBox{
 	background:#FFF07C;
 }
 
+#instagramBox blockquote{
+	background : none;
+}
+
+
 iframe{
 	width:100%;
 	height: 400px;
+}
+
+#githubIcon{
+	margin-top:auto;
+	margin-bottom: auto;
+	width: 90px;
+	height: auto;
+	float:right;
+}
+
+#googlePlayBox{
+	margin-top:-1.6em;
+}
+
+h1{
+	color:#101C19;
+}
+
+blockquote{
+	background-color:red;
+	background:url('../files/bg-pattern.png') repeat;
+	border:none;
+}
+
+a{
+	color:#9799CA;
 }
