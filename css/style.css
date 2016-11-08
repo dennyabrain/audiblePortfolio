@@ -50,3 +50,12 @@ hr{
 	margin-right:auto;
 	margin-left:auto;
 }
+
+#instagramBox{
+	background:#FFF07C;
+}
+
+iframe{
+	width:100%;
+	height: 400px;
+}
