@@ -1,0 +1,52 @@
+p{
+	font-size: 1.2em;
+	font-family:Georgia, "Times New Roman", Times, serif
+}
+
+body{
+	background-color:#ffffff;
+}
+
+hr{
+    border: 0;
+    border-bottom: 5px dashed #000;
+    background: #fff;
+}
+
+.gifBox {
+    box-shadow: 7px 7px 5px #888888;
+    margin: 0 auto;
+    border-radius: 0.6em;
+}
+
+.caption{
+	margin-top: 2em;
+	font-family: "Arial", Verdana, Sans-serif;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 0.8em;
+	font-weight: bold;
+}
+
+.right-align{
+	text-align: right;
+}
+
+.center-align{
+	text-align: center;
+}
+
+.anchor{
+	color:#333333;
+	text-decoration: none;
+}
+
+.anchor:hover{
+	color:#333333;
+	text-decoration: none;
+}
+
+.linkBox img{
+	margin-right:auto;
+	margin-left:auto;
+}
