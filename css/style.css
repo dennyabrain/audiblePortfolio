@@ -78,6 +78,10 @@ iframe{
 	margin-top:-1.6em;
 }
 
+#googlePlayBox a{
+	background-color: transparent;
+}
+
 h1{
 	color:#101C19;
 }
@@ -89,9 +93,14 @@ blockquote{
 }
 
 a{
-	color:#9799CA;
+	background-color:#FFF07C;
+	color:#101C19;
 }
 
 em{
 	font-weight: bold;
+}
+
+a:hover{
+	color:#101C19;
 }
