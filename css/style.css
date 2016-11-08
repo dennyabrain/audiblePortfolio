@@ -91,3 +91,7 @@ blockquote{
 a{
 	color:#9799CA;
 }
+
+em{
+	font-weight: bold;
+}
